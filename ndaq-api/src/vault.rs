@@ -1,2 +1,2 @@
-const API_KEY: &str     = "reWVMC-Tg_tp-feVkKF9";
-const PASSWORD: &str    = "gigaGREENwhyte102"
+const API_KEY: &str     = "";
+const PASSWORD: &str    = "";
