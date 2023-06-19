@@ -1,0 +1,11 @@
+/repos/pgdb/collectors/ndaq-api/target/debug/deps/postgres_types-48be0071e4a16d73.rmeta: /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/lib.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/pg_lsn.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/private.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/special.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/type_gen.rs
+
+/repos/pgdb/collectors/ndaq-api/target/debug/deps/libpostgres_types-48be0071e4a16d73.rlib: /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/lib.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/pg_lsn.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/private.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/special.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/type_gen.rs
+
+/repos/pgdb/collectors/ndaq-api/target/debug/deps/postgres_types-48be0071e4a16d73.d: /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/lib.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/pg_lsn.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/private.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/special.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/type_gen.rs
+
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/lib.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/pg_lsn.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/private.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/special.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.5/src/type_gen.rs:

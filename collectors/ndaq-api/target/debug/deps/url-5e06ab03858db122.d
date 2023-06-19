@@ -1,0 +1,13 @@
+/repos/pgdb/collectors/ndaq-api/target/debug/deps/url-5e06ab03858db122.rmeta: /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/lib.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/host.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/origin.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/parser.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/path_segments.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/slicing.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/quirks.rs
+
+/repos/pgdb/collectors/ndaq-api/target/debug/deps/liburl-5e06ab03858db122.rlib: /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/lib.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/host.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/origin.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/parser.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/path_segments.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/slicing.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/quirks.rs
+
+/repos/pgdb/collectors/ndaq-api/target/debug/deps/url-5e06ab03858db122.d: /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/lib.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/host.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/origin.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/parser.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/path_segments.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/slicing.rs /home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/quirks.rs
+
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/lib.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/host.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/origin.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/parser.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/path_segments.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/slicing.rs:
+/home/kimon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.4.0/src/quirks.rs:
